@@ -1,0 +1,17 @@
+{
+    "name": "com.edenmeng.testpackage",
+    "version": "0.1.0",
+    "displayName": "Test Package",
+    "description": "This is a test to create a package",
+    "author": {
+        "name": "Eden Meng",
+        "email": "liulimengplay@163.com"
+    },
+    "samples": [
+        {
+            "displayName": "Rotate",
+            "description": "Rotate the object",
+            "path": "Samples~/Usage1"
+        }
+    ]
+}
